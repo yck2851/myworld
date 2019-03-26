@@ -1,2 +1,2 @@
 import datetime
-print("kill")
+print("kill123456879")
